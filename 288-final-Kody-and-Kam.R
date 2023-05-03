@@ -1,4 +1,5 @@
-load("C:/Users/polit/OneDrive/Desktop/CS 288/DS0001/38062-0001-Data.rda")
+#use proper directory here
+load("C:/current/working/directory/DS0001/38062-0001-Data.rda")
 library(randomForest)
 library(gbm)
 library(boot)
